@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import StudyTabs from './Studytabs';
+import StudyTabs from './StudyTabs';
 
 import Landing from '../pages/Landing';
 import GiveClasses from '../pages/GiveClasses';
